@@ -1,0 +1,1 @@
+This is a web app used to rearrange the Google Ads data from multiple accounts into a single spreadsheet. The info is reordered so you can see monthly aggregate data on each row at an account level and campaign level.
